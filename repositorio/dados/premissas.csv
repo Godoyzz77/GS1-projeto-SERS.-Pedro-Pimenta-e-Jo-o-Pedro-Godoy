@@ -1,0 +1,28 @@
+id,descricao,valor,unidade,origem,fonte,justificativa
+tubos_base,Tubos fluorescentes existentes no cenário,8,unid.,H,S1,Quatro trechos cobertos do percurso com dois tubos por trecho. Conferir contagem e posição.
+tubos_led,Tubos LED previstos na alternativa A,8,unid.,H,S3,Começar com uma troca por ponto e testar a luz útil. A sensibilidade examina 12 tubos.
+pot_base,Potência nominal de um tubo fluorescente,36,W,P,S2,"Potência do modelo de referência, antes das perdas do reator."
+perda_reator,Perda atribuída ao reator por tubo,4,W,H,cenário,Aproximação de 4 W por lâmpada. Confirmar a potência real do conjunto com medidor.
+pot_led,Potência de entrada por LED,16,W,P,S3,"LED de ligação direta à rede, sem reator externo no modelo."
+fluxo_led,Fluxo luminoso de catálogo do LED,2100,lm,P,S3,Usado apenas para descrever o produto. A luz no piso requer luxímetro.
+eficacia_base,Eficácia nominal do tubo fluorescente,90,lm/W,P,S2,Permite estimar o fluxo do tubo e discutir o piloto fotométrico.
+hora_abre,Início do atendimento diário,6,h,H,S1,"Dado do cadastro simulado 06:00–23:00, confirmado automaticamente com o recorte."
+hora_fecha,Fim do atendimento diário,23,h,H,S1,"Dado do cadastro simulado 06:00–23:00, sem indicação dos dias da semana."
+dias_ano,Dias de funcionamento por ano,365,dias/ano,H,S1,"Operação diária sem feriados ou interdições. O horário consta no cadastro, os dias são hipótese."
+hora_sol_inicio,Início modelado da curva solar,6,h,H,cenário,Dia médio com geração por 12 h. A variação por estação não foi medida.
+hora_sol_fim,Fim modelado da curva solar,18,h,H,cenário,Uma curva triangular simétrica aproxima o dia solar. À noite a contribuição é zero.
+n_modulos,Módulos fotovoltaicos do kit,2,unid.,P,S6,Quantidade do modelo anunciado.
+w_modulo,Potência nominal por módulo,590,Wp,P,S6,Potência pico nas condições de referência.
+hsp,Horas de sol pleno equivalentes,4.589,h/dia,E,S5,Irradiação horizontal de São Paulo dividida por 1 kW/m². Cidade fictícia usa São Paulo como aproximação.
+desempenho,Fator de desempenho do sistema,0.78,fração,H,cenário,"Reserva global de 22% para temperatura, conversão, sujeira e perdas. Faixa de estresse de 0,65 a 0,85."
+tusd,Uso do sistema de distribuição,472.42,R$/MWh,P,S4,Modalidade convencional do subgrupo B3 de referência.
+te,Energia da distribuidora,316.96,R$/MWh,P,S4,"Parcela volumétrica de energia, com bandeira verde na tabela de referência."
+preco_led,Preço de referência por LED,32.99,R$/unid.,P,S7,"Valor no cartão, sem frete. Confirmar o código e obter proposta para o lote."
+mao_led,Instalação e adaptação por tubo LED,30,R$/unid.,H,cenário,Provisão didática por ponto para retirada do reator e montagem por profissional. Solicitar orçamento.
+lote_led,Coleta das lâmpadas e transporte da intervenção,80,R$/lote,H,cenário,Reserva para um deslocamento e encaminhamento do lote. Verificar a logística reversa local.
+kit_fv,Kit fotovoltaico com microinversor,2759,R$/kit,P,S6,Preço de uma unidade no cartão. Escolha de estrutura e serviços podem alterar o total.
+inst_fv,Instalação e serviços técnicos do kit,1000,R$/lote,H,cenário,"Provisão para mão de obra, avaliação e regularização. Falta orçamento do instalador."
+acess_fv,"Estrutura complementar, proteção e transporte",500,R$/lote,H,cenário,Complementos fora do preço de referência. Reconciliar com os itens da cotação antes de contratar.
+reserva_base,Manutenção dos tubos e reatores da base,120,R$/ano,H,cenário,Provisão de 10 reais por mês para pequenos reparos e reposições normais do circuito.
+reserva_led,Manutenção do conjunto LED,60,R$/ano,H,cenário,Provisão de 5 reais por mês para o conjunto do piloto. Confirmar com histórico.
+reserva_fv,Reserva extra para limpeza e manutenção FV,120,R$/ano,H,cenário,Além da reserva dos tubos da base. Falha grave do inversor fora do ano-modelo.

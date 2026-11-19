@@ -1,0 +1,12 @@
+{
+  "id": "FZC-001",
+  "nome": "Ponto do Tear",
+  "tipo": "coleta_oleo_em_garrafa_fechada",
+  "endereco": "Pátio da Casa do Fio, Vila do Tear",
+  "status": "ativo",
+  "status_motivo": "operação normal",
+  "acessivel": true,
+  "horario": "06:00–23:00",
+  "bairro": "Vila do Tear",
+  "observacao_cidadao": "Subi a rampa com a garrafa e encontrei espaço no coletor."
+}

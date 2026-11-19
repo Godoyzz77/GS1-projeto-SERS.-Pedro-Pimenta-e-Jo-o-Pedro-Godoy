@@ -1,0 +1,1043 @@
+{
+  "ponto": {
+    "id": "FZC-001",
+    "nome": "Ponto do Tear",
+    "tipo": "coleta_oleo_em_garrafa_fechada",
+    "endereco": "Pátio da Casa do Fio, Vila do Tear",
+    "status": "ativo",
+    "status_motivo": "operação normal",
+    "acessivel": true,
+    "horario": "06:00–23:00",
+    "bairro": "Vila do Tear",
+    "observacao_cidadao": "Subi a rampa com a garrafa e encontrei espaço no coletor."
+  },
+  "tarifa": 0.78938,
+  "resultados": {
+    "base": {
+      "nome": "Situação de referência",
+      "kw": 0.32,
+      "ano": {
+        "consumo": 1985.600000000001,
+        "geracao": 0.0,
+        "solar": 0.0,
+        "rede": 1985.600000000001,
+        "excedente": 0.0,
+        "conta": 1567.3929280000007,
+        "manutencao": 120.0,
+        "operacao": 1687.3929280000007,
+        "economia_consumo": 0.0,
+        "rede_evitada": 0.0,
+        "economia_conta": 0.0,
+        "economia_liquida": 0.0
+      },
+      "mes": {
+        "consumo": 165.46666666666675,
+        "geracao": 0.0,
+        "solar": 0.0,
+        "rede": 165.46666666666675,
+        "excedente": 0.0,
+        "conta": 130.61607733333338,
+        "manutencao": 10.0,
+        "operacao": 140.61607733333338,
+        "economia_consumo": 0.0,
+        "rede_evitada": 0.0,
+        "economia_conta": 0.0,
+        "economia_liquida": 0.0
+      },
+      "dia": [
+        {
+          "hora": 0,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 1,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 2,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 3,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 4,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 5,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 6,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 7,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 8,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 9,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 10,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 11,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 12,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 13,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 14,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 15,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 16,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 17,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 18,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 19,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 20,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 21,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 22,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 23,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        }
+      ],
+      "participacao": 0.0,
+      "reducao": 0.0,
+      "capex": 0,
+      "retorno": null
+    },
+    "led": {
+      "nome": "Troca por LED",
+      "kw": 0.128,
+      "ano": {
+        "consumo": 794.2400000000002,
+        "geracao": 0.0,
+        "solar": 0.0,
+        "rede": 794.2400000000002,
+        "excedente": 0.0,
+        "conta": 626.9571712000002,
+        "manutencao": 60.0,
+        "operacao": 686.9571712000002,
+        "economia_consumo": 1191.3600000000008,
+        "rede_evitada": 1191.3600000000008,
+        "economia_conta": 940.4357568000005,
+        "economia_liquida": 1000.4357568000005
+      },
+      "mes": {
+        "consumo": 66.18666666666668,
+        "geracao": 0.0,
+        "solar": 0.0,
+        "rede": 66.18666666666668,
+        "excedente": 0.0,
+        "conta": 52.24643093333335,
+        "manutencao": 5.0,
+        "operacao": 57.24643093333335,
+        "economia_consumo": 99.28000000000007,
+        "rede_evitada": 99.28000000000007,
+        "economia_conta": 78.36964640000004,
+        "economia_liquida": 83.36964640000004
+      },
+      "dia": [
+        {
+          "hora": 0,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 1,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 2,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 3,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 4,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 5,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 6,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 7,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 8,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 9,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 10,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 11,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 12,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 13,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 14,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 15,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 16,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 17,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 18,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 19,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 20,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 21,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 22,
+          "consumo": 0.12800000000000003,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.12800000000000003,
+          "excedente": 0.0
+        },
+        {
+          "hora": 23,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        }
+      ],
+      "participacao": 0.0,
+      "reducao": 60.000000000000014,
+      "capex": 583.9200000000001,
+      "retorno": 0.5836656637181081
+    },
+    "solar": {
+      "nome": "Geração solar",
+      "kw": 0.32,
+      "ano": {
+        "consumo": 1985.600000000001,
+        "geracao": 1541.6561940000001,
+        "solar": 1083.03457556963,
+        "rede": 902.5654244303706,
+        "excedente": 458.6216184303705,
+        "conta": 712.467094736846,
+        "manutencao": 240.0,
+        "operacao": 952.467094736846,
+        "economia_consumo": 0.0,
+        "rede_evitada": 1083.0345755696303,
+        "economia_conta": 854.9258332631547,
+        "economia_liquida": 734.9258332631547
+      },
+      "mes": {
+        "consumo": 165.46666666666675,
+        "geracao": 128.4713495,
+        "solar": 90.25288129746917,
+        "rede": 75.21378536919755,
+        "excedente": 38.21846820253088,
+        "conta": 59.37225789473717,
+        "manutencao": 20.0,
+        "operacao": 79.37225789473716,
+        "economia_consumo": 0.0,
+        "rede_evitada": 90.25288129746919,
+        "economia_conta": 71.24381943859622,
+        "economia_liquida": 61.243819438596226
+      },
+      "dia": [
+        {
+          "hora": 0,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 1,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 2,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 3,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 4,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 5,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        },
+        {
+          "hora": 6,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.058662716666666684,
+          "solar": 0.058662716666666684,
+          "rede": 0.26133728333333334,
+          "excedente": 0.0
+        },
+        {
+          "hora": 7,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.17598814999999998,
+          "solar": 0.17598814999999998,
+          "rede": 0.14401185,
+          "excedente": 0.0
+        },
+        {
+          "hora": 8,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.29331358333333335,
+          "solar": 0.28895814096296313,
+          "rede": 0.03104185903703702,
+          "excedente": 0.004355442370370378
+        },
+        {
+          "hora": 9,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.41063901666666675,
+          "solar": 0.3200000000000002,
+          "rede": 0.0,
+          "excedente": 0.09063901666666668
+        },
+        {
+          "hora": 10,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.5279644500000001,
+          "solar": 0.3200000000000002,
+          "rede": 0.0,
+          "excedente": 0.20796445000000008
+        },
+        {
+          "hora": 11,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.6452898833333334,
+          "solar": 0.3200000000000002,
+          "rede": 0.0,
+          "excedente": 0.3252898833333334
+        },
+        {
+          "hora": 12,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.6452898833333335,
+          "solar": 0.3200000000000002,
+          "rede": 0.0,
+          "excedente": 0.32528988333333336
+        },
+        {
+          "hora": 13,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.52796445,
+          "solar": 0.3200000000000002,
+          "rede": 0.0,
+          "excedente": 0.20796445000000008
+        },
+        {
+          "hora": 14,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.4106390166666667,
+          "solar": 0.3200000000000002,
+          "rede": 0.0,
+          "excedente": 0.09063901666666668
+        },
+        {
+          "hora": 15,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.29331358333333335,
+          "solar": 0.28895814096296296,
+          "rede": 0.031041859037037014,
+          "excedente": 0.004355442370370378
+        },
+        {
+          "hora": 16,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.17598814999999995,
+          "solar": 0.17598814999999995,
+          "rede": 0.14401184999999997,
+          "excedente": 0.0
+        },
+        {
+          "hora": 17,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.058662716666666684,
+          "solar": 0.058662716666666684,
+          "rede": 0.2613372833333333,
+          "excedente": 0.0
+        },
+        {
+          "hora": 18,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 19,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 20,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 21,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 22,
+          "consumo": 0.3200000000000002,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.3200000000000002,
+          "excedente": 0.0
+        },
+        {
+          "hora": 23,
+          "consumo": 0.0,
+          "geracao": 0.0,
+          "solar": 0.0,
+          "rede": 0.0,
+          "excedente": 0.0
+        }
+      ],
+      "participacao": 54.54444880991285,
+      "reducao": 0.0,
+      "capex": 4259.0,
+      "retorno": 5.795142594307174
+    }
+  },
+  "premissas": [
+    {
+      "id": "tubos_base",
+      "descricao": "Tubos fluorescentes existentes no cenário",
+      "valor": "8",
+      "unidade": "unid.",
+      "origem": "H",
+      "fonte": "S1",
+      "justificativa": "Quatro trechos cobertos do percurso com dois tubos por trecho. Conferir contagem e posição."
+    },
+    {
+      "id": "tubos_led",
+      "descricao": "Tubos LED previstos na alternativa A",
+      "valor": "8",
+      "unidade": "unid.",
+      "origem": "H",
+      "fonte": "S3",
+      "justificativa": "Começar com uma troca por ponto e testar a luz útil. A sensibilidade examina 12 tubos."
+    },
+    {
+      "id": "pot_base",
+      "descricao": "Potência nominal de um tubo fluorescente",
+      "valor": "36",
+      "unidade": "W",
+      "origem": "P",
+      "fonte": "S2",
+      "justificativa": "Potência do modelo de referência, antes das perdas do reator."
+    },
+    {
+      "id": "perda_reator",
+      "descricao": "Perda atribuída ao reator por tubo",
+      "valor": "4",
+      "unidade": "W",
+      "origem": "H",
+      "fonte": "cenário",
+      "justificativa": "Aproximação de 4 W por lâmpada. Confirmar a potência real do conjunto com medidor."
+    },
+    {
+      "id": "pot_led",
+      "descricao": "Potência de entrada por LED",
+      "valor": "16",
+      "unidade": "W",
+      "origem": "P",
+      "fonte": "S3",
+      "justificativa": "LED de ligação direta à rede, sem reator externo no modelo."
+    },
+    {
+      "id": "fluxo_led",
+      "descricao": "Fluxo luminoso de catálogo do LED",
+      "valor": "2100",
+      "unidade": "lm",
+      "origem": "P",
+      "fonte": "S3",
+      "justificativa": "Usado apenas para descrever o produto. A luz no piso requer luxímetro."
+    },
+    {
+      "id": "eficacia_base",
+      "descricao": "Eficácia nominal do tubo fluorescente",
+      "valor": "90",
+      "unidade": "lm/W",
+      "origem": "P",
+      "fonte": "S2",
+      "justificativa": "Permite estimar o fluxo do tubo e discutir o piloto fotométrico."
+    },
+    {
+      "id": "hora_abre",
+      "descricao": "Início do atendimento diário",
+      "valor": "6",
+      "unidade": "h",
+      "origem": "H",
+      "fonte": "S1",
+      "justificativa": "Dado do cadastro simulado 06:00–23:00, confirmado automaticamente com o recorte."
+    },
+    {
+      "id": "hora_fecha",
+      "descricao": "Fim do atendimento diário",
+      "valor": "23",
+      "unidade": "h",
+      "origem": "H",
+      "fonte": "S1",
+      "justificativa": "Dado do cadastro simulado 06:00–23:00, sem indicação dos dias da semana."
+    },
+    {
+      "id": "dias_ano",
+      "descricao": "Dias de funcionamento por ano",
+      "valor": "365",
+      "unidade": "dias/ano",
+      "origem": "H",
+      "fonte": "S1",
+      "justificativa": "Operação diária sem feriados ou interdições. O horário consta no cadastro, os dias são hipótese."
+    },
+    {
+      "id": "hora_sol_inicio",
+      "descricao": "Início modelado da curva solar",
+      "valor": "6",
+      "unidade": "h",
+      "origem": "H",
+      "fonte": "cenário",
+      "justificativa": "Dia médio com geração por 12 h. A variação por estação não foi medida."
+    },
+    {
+      "id": "hora_sol_fim",
+      "descricao": "Fim modelado da curva solar",
+      "valor": "18",
+      "unidade": "h",
+      "origem": "H",
+      "fonte": "cenário",
+      "justificativa": "Uma curva triangular simétrica aproxima o dia solar. À noite a contribuição é zero."
+    },
+    {
+      "id": "n_modulos",
+      "descricao": "Módulos fotovoltaicos do kit",
+      "valor": "2",
+      "unidade": "unid.",
+      "origem": "P",
+      "fonte": "S6",
+      "justificativa": "Quantidade do modelo anunciado."
+    },
+    {
+      "id": "w_modulo",
+      "descricao": "Potência nominal por módulo",
+      "valor": "590",
+      "unidade": "Wp",
+      "origem": "P",
+      "fonte": "S6",
+      "justificativa": "Potência pico nas condições de referência."
+    },
+    {
+      "id": "hsp",
+      "descricao": "Horas de sol pleno equivalentes",
+      "valor": "4.589",
+      "unidade": "h/dia",
+      "origem": "E",
+      "fonte": "S5",
+      "justificativa": "Irradiação horizontal de São Paulo dividida por 1 kW/m². Cidade fictícia usa São Paulo como aproximação."
+    },
+    {
+      "id": "desempenho",
+      "descricao": "Fator de desempenho do sistema",
+      "valor": "0.78",
+      "unidade": "fração",
+      "origem": "H",
+      "fonte": "cenário",
+      "justificativa": "Reserva global de 22% para temperatura, conversão, sujeira e perdas. Faixa de estresse de 0,65 a 0,85."
+    },
+    {
+      "id": "tusd",
+      "descricao": "Uso do sistema de distribuição",
+      "valor": "472.42",
+      "unidade": "R$/MWh",
+      "origem": "P",
+      "fonte": "S4",
+      "justificativa": "Modalidade convencional do subgrupo B3 de referência."
+    },
+    {
+      "id": "te",
+      "descricao": "Energia da distribuidora",
+      "valor": "316.96",
+      "unidade": "R$/MWh",
+      "origem": "P",
+      "fonte": "S4",
+      "justificativa": "Parcela volumétrica de energia, com bandeira verde na tabela de referência."
+    },
+    {
+      "id": "preco_led",
+      "descricao": "Preço de referência por LED",
+      "valor": "32.99",
+      "unidade": "R$/unid.",
+      "origem": "P",
+      "fonte": "S7",
+      "justificativa": "Valor no cartão, sem frete. Confirmar o código e obter proposta para o lote."
+    },
+    {
+      "id": "mao_led",
+      "descricao": "Instalação e adaptação por tubo LED",
+      "valor": "30",
+      "unidade": "R$/unid.",
+      "origem": "H",
+      "fonte": "cenário",
+      "justificativa": "Provisão didática por ponto para retirada do reator e montagem por profissional. Solicitar orçamento."
+    },
+    {
+      "id": "lote_led",
+      "descricao": "Coleta das lâmpadas e transporte da intervenção",
+      "valor": "80",
+      "unidade": "R$/lote",
+      "origem": "H",
+      "fonte": "cenário",
+      "justificativa": "Reserva para um deslocamento e encaminhamento do lote. Verificar a logística reversa local."
+    },
+    {
+      "id": "kit_fv",
+      "descricao": "Kit fotovoltaico com microinversor",
+      "valor": "2759",
+      "unidade": "R$/kit",
+      "origem": "P",
+      "fonte": "S6",
+      "justificativa": "Preço de uma unidade no cartão. Escolha de estrutura e serviços podem alterar o total."
+    },
+    {
+      "id": "inst_fv",
+      "descricao": "Instalação e serviços técnicos do kit",
+      "valor": "1000",
+      "unidade": "R$/lote",
+      "origem": "H",
+      "fonte": "cenário",
+      "justificativa": "Provisão para mão de obra, avaliação e regularização. Falta orçamento do instalador."
+    },
+    {
+      "id": "acess_fv",
+      "descricao": "Estrutura complementar, proteção e transporte",
+      "valor": "500",
+      "unidade": "R$/lote",
+      "origem": "H",
+      "fonte": "cenário",
+      "justificativa": "Complementos fora do preço de referência. Reconciliar com os itens da cotação antes de contratar."
+    },
+    {
+      "id": "reserva_base",
+      "descricao": "Manutenção dos tubos e reatores da base",
+      "valor": "120",
+      "unidade": "R$/ano",
+      "origem": "H",
+      "fonte": "cenário",
+      "justificativa": "Provisão de 10 reais por mês para pequenos reparos e reposições normais do circuito."
+    },
+    {
+      "id": "reserva_led",
+      "descricao": "Manutenção do conjunto LED",
+      "valor": "60",
+      "unidade": "R$/ano",
+      "origem": "H",
+      "fonte": "cenário",
+      "justificativa": "Provisão de 5 reais por mês para o conjunto do piloto. Confirmar com histórico."
+    },
+    {
+      "id": "reserva_fv",
+      "descricao": "Reserva extra para limpeza e manutenção FV",
+      "valor": "120",
+      "unidade": "R$/ano",
+      "origem": "H",
+      "fonte": "cenário",
+      "justificativa": "Além da reserva dos tubos da base. Falha grave do inversor fora do ano-modelo."
+    }
+  ],
+  "fontes": [
+    {
+      "id": "S0",
+      "autor": "FIAP",
+      "documento": "Global Solution 2026.2, SERS, pp. 2–5",
+      "localizador": "PDF do enunciado entregue à equipe",
+      "nota": "Requisitos, fórmula de consumo e rubrica.",
+      "consulta": "13/11/2026"
+    },
+    {
+      "id": "S1",
+      "autor": "Projeto Pingo de Volta",
+      "documento": "Cadastro CitizenTech da equipe, 2_dados_servico.json, FZC-001",
+      "localizador": "dados/ponto_tear.json",
+      "nota": "Cadastro fictício. A identificação, o bairro, a situação e o horário foram preservados. O cadastro não descreve instalação elétrica.",
+      "consulta": "13/11/2026"
+    },
+    {
+      "id": "S2",
+      "autor": "Signify Brasil / Philips",
+      "documento": "TL-D 36W/840 1SL/25, produto 927982284040, especificações",
+      "localizador": "https://www.signify.com/pt-br/prof/lampadas-e-lampadas-tubulares-convencionais/lampadas-fluorescentes-e-iniciadores/tl-d/philips-tl-d-lifemax-super-80/927982284040_EU/product",
+      "nota": "36 W por tubo e 90 lm/W nominais. A ficha informa mercúrio. A perda do reator foi estimada separadamente.",
+      "consulta": "13/11/2026"
+    },
+    {
+      "id": "S3",
+      "autor": "Signify Brasil / Philips",
+      "documento": "MASTER Value LEDtube 1200 mm HO 16W 840 T8 BR, 929002089712, folha de 14/09/2023, p. 1",
+      "localizador": "https://www.signify.com/api/assets/v1/file/Signify/content/929002089712_EU.pt_BR.PROF.FP/MAS_LEDtube_VLE_1200mm_HO_16W_840_T8_BR.pdf",
+      "nota": "16 W, 2.100 lm, G13, 4.000 K e ligação direta à rede. A ficha apresenta o modelo como alternativa para o TL-D de 36 W. A equivalência no pátio requer medição de iluminância.",
+      "consulta": "13/11/2026"
+    },
+    {
+      "id": "S4",
+      "autor": "Enel Distribuição São Paulo",
+      "documento": "Tarifa convencional, B3 demais classes, REH 3.596/2026, vigência a partir de 04/07/2026",
+      "localizador": "https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-de-energia-eletrica.html",
+      "nota": "TUSD 472,42 e TE 316,96 R$/MWh. Usadas como referência substituta de São Paulo para uma instalação B3 hipotética. A fatura real tem outras parcelas.",
+      "consulta": "13/11/2026"
+    },
+    {
+      "id": "S5",
+      "autor": "Governo do Estado de São Paulo, Secretaria de Energia",
+      "documento": "Energia Solar Paulista, levantamento do potencial, 2013, tabela 3, linha São Paulo, coluna anual",
+      "localizador": "https://www.absolar.org.br/wp-content/uploads/2021/02/S%C3%A3o%20Paulo.pdf",
+      "nota": "4,589 kWh/m² por dia de radiação solar global média. Cópia do atlas oficial. Valor de referência para o cenário fictício, com plano horizontal aproximado.",
+      "consulta": "13/11/2026"
+    },
+    {
+      "id": "S6",
+      "autor": "NeoSolar",
+      "documento": "Kit Energia Solar On Grid Microinversor 1,18 kWp, código 34743, especificações e tabela de parcelamento",
+      "localizador": "https://www.neosolar.com.br/loja/kit-energia-solar-on-grid-microinversor-1180wp-34743.html",
+      "nota": "Dois módulos de 590 Wp e microinversor Deye monofásico 220 V. Preço de referência R$ 2.759,00 na opção 1x cartão. Instalação e complementos orçados à parte como hipóteses.",
+      "consulta": "13/11/2026"
+    },
+    {
+      "id": "S7",
+      "autor": "Dimensional",
+      "documento": "Lâmpada tubular Philips Master Value T8 16 W 2.100 lm, título 929002089712; preço cartão",
+      "localizador": "https://www.dimensional.com.br/lampada-led-t8-g13-4000k-biv-16w-vidro-929002089712---philips/p",
+      "nota": "R$ 32,99 por tubo no cartão. O campo secundário de código diverge do título. Confirmar SKU antes da compra. Preço de referência da família, sujeito a mudança.",
+      "consulta": "13/11/2026"
+    }
+  ],
+  "sensibilidade": [
+    {
+      "nome": "Piloto com 12 LEDs",
+      "rede": 99.28000000000004,
+      "liquida": 686.9571712000003,
+      "capex": 835.88,
+      "retorno": 1.2167861914009228
+    },
+    {
+      "nome": "Solar com desempenho 0,65",
+      "rede": 80.52323969655353,
+      "liquida": 684.6317085800156,
+      "capex": 4259.0,
+      "retorno": 6.220862905741728
+    },
+    {
+      "nome": "Solar com desempenho 0,85",
+      "rede": 73.02763375289355,
+      "liquida": 755.6342856176914,
+      "capex": 4259.0,
+      "retorno": 5.636324450945858
+    }
+  ],
+  "dias": 365.0,
+  "horas": 17.0
+}
